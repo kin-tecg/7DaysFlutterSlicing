@@ -25,4 +25,6 @@ What did you learn while building this project?
 
 - [@kin-techg](https://github.com/kin-tecg)
 
-# 7DaysFlutterSlicing
+## Project URL Video 
+
+[@Click here](https://www.youtube.com/watch?v=r0kz33Y79OQ)
